@@ -571,6 +571,9 @@ section { padding: 96px 0; }
 
 @media (max-width: 720px) {
   section { padding: 64px 0; }
+  /* sem logo no header mobile — ações ficam alinhadas à direita */
+  .logo-link { display: none; }
+  .header-actions { margin-left: auto; }
   .main-nav {
     position: fixed;
     top: var(--header-h);
