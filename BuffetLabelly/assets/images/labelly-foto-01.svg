@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#F3E4DA"/>
+  <rect x="10" y="10" width="1180" height="880" rx="20" fill="none" stroke="#4A1030" stroke-width="3" stroke-dasharray="16 12"/>
+  <g transform="translate(600,380)" stroke="#4A1030" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="-70" y="-50" width="140" height="100" rx="10"/>
+    <circle cx="0" cy="0" r="32"/>
+    <rect x="-24" y="-72" width="48" height="24" rx="4"/>
+  </g>
+  <text x="600" y="500" text-anchor="middle" font-family="Georgia, serif" font-size="34" fill="#4A1030" font-weight="bold">FOTO 01 — PRINCIPAL</text>
+  <text x="600" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#7A3B54">Mesa / evento montado</text>
+  <text x="600" y="575" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#A9748A">1200 x 900px — substituir por foto real</text>
+</svg>
